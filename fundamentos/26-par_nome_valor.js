@@ -1,9 +1,9 @@
 // Conjunto Par Nome/Valor
-const saudacao = 'Opa' // Contexto Léxico 1
+const saudacao = 'Opa'; // Contexto Léxico 1
 
 function exec() {
-    const saudacao = 'Falaaa' // Contexto Léxico 2
-    return saudacao
+    const saudacao = 'Falaaa'; // Contexto Léxico 2
+    return saudacao;
 }
 
 // Objetos são grupos aninhados de pares nome/valor
