@@ -18,3 +18,5 @@ function teste() {
 }
 
 teste();
+
+// O efeito de Hoisting não tem efeito quando usado o let
